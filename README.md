@@ -1,6 +1,4 @@
 # Book-Wisdom
-This is the perfect place to find the summaries of the top self books out there.
-# Book-Wisdom
 
 Welcome to **Book-Wisdom**! This repository is your go-to resource for concise and insightful summaries of the best self-help books available. Whether you're looking to improve your personal productivity, enhance your mental health, or boost your professional skills, you'll find valuable insights distilled into quick reads.
 
